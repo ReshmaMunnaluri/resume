@@ -42,17 +42,12 @@ p{
     border: 2px solid black;
     font-weight: bold;
     word-spacing: 8px;
-    margin: 10px;
-}
-.sam{
-    width: 1088px;
-    padding: 5px;
-    background-color:lightgrey;
-    border: 2px solid black;
-    font-weight: bold;
+    padding:5px;
+    margin-top:8px;
+    margin-bottom:8px;
 }
 table,th,td{
-    margin: 65px;
+    margin: 55px;
     border: 2px solid black;
     font-size: 18px;
     text-align: center;
